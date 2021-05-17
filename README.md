@@ -14,12 +14,13 @@ anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
 www.shapeai.tech
 
+Connect with me:
 <li><a href=
 "https://www.linkedin.com/in/sauravmukherjee44/">LinkedIn</a>
 <li><a href=
 "https://www.instagram.com/mesouravofficial/">Instagram</a>
 <li><a
 href=
-"https://www.youtube.com/channel/UCjzAiV0IpFJ45UgnHnc_4ug/featured">YouTu
+"https://www.youtube.com/channel/UCYGVtIgQIAChKBWBmChxzJw">YouTu
 be</a>
 
