@@ -13,14 +13,13 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 anyone with zero experience on programming can learn.
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
 www.shapeai.tech
-or follow SHAPEAI on:
+
 <li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+"https://www.linkedin.com/in/sauravmukherjee44/">LinkedIn</a>
 <li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+"https://www.instagram.com/mesouravofficial/">Instagram</a>
 <li><a
 href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+"https://www.youtube.com/channel/UCjzAiV0IpFJ45UgnHnc_4ug/featured">YouTu
 be</a>
-<li><a href=
-"https://github.com/shapeai">GitHub</a>
+
